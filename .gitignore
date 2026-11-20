@@ -1,0 +1,4 @@
+sensor_data.csv
+main.py
+__pycache__/
+.venv/
